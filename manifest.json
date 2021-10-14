@@ -1,0 +1,39 @@
+{
+  "name": "Wahyu Achmad",
+  "short_name": "Wahyu Achmad",
+  "scope": "https://www.wahyuachmad.com",
+  "start_url": "https://www.wahyuachmad.com",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#39b4ff",
+  "description": "Tempat berbagi informasi seputar teknologi, tips, trik, coding, tutorial, social media, berita dan info menarik lainnya",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEidhQG32-yBtRcz70HGG7h9WjMa28hi-9sgxTGEYbbtt7Vjl1x0eR1MH0_5BjjbbosTG7VNboKHyOiKgoPCBPs50BjZ8ix7tI6MKxNu9xkcy7VsY7dlt7iqBWUXdV71x-PwwX-nRw1WNV-mo5SH0Cj3oo3Uj661UQkG2dH97vr0dBrV3izqfJf-BOf4bg=s48",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEidhQG32-yBtRcz70HGG7h9WjMa28hi-9sgxTGEYbbtt7Vjl1x0eR1MH0_5BjjbbosTG7VNboKHyOiKgoPCBPs50BjZ8ix7tI6MKxNu9xkcy7VsY7dlt7iqBWUXdV71x-PwwX-nRw1WNV-mo5SH0Cj3oo3Uj661UQkG2dH97vr0dBrV3izqfJf-BOf4bg=s72",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEidhQG32-yBtRcz70HGG7h9WjMa28hi-9sgxTGEYbbtt7Vjl1x0eR1MH0_5BjjbbosTG7VNboKHyOiKgoPCBPs50BjZ8ix7tI6MKxNu9xkcy7VsY7dlt7iqBWUXdV71x-PwwX-nRw1WNV-mo5SH0Cj3oo3Uj661UQkG2dH97vr0dBrV3izqfJf-BOf4bg=s96",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEidhQG32-yBtRcz70HGG7h9WjMa28hi-9sgxTGEYbbtt7Vjl1x0eR1MH0_5BjjbbosTG7VNboKHyOiKgoPCBPs50BjZ8ix7tI6MKxNu9xkcy7VsY7dlt7iqBWUXdV71x-PwwX-nRw1WNV-mo5SH0Cj3oo3Uj661UQkG2dH97vr0dBrV3izqfJf-BOf4bg=s144",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEidhQG32-yBtRcz70HGG7h9WjMa28hi-9sgxTGEYbbtt7Vjl1x0eR1MH0_5BjjbbosTG7VNboKHyOiKgoPCBPs50BjZ8ix7tI6MKxNu9xkcy7VsY7dlt7iqBWUXdV71x-PwwX-nRw1WNV-mo5SH0Cj3oo3Uj661UQkG2dH97vr0dBrV3izqfJf-BOf4bg=s168",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEidhQG32-yBtRcz70HGG7h9WjMa28hi-9sgxTGEYbbtt7Vjl1x0eR1MH0_5BjjbbosTG7VNboKHyOiKgoPCBPs50BjZ8ix7tI6MKxNu9xkcy7VsY7dlt7iqBWUXdV71x-PwwX-nRw1WNV-mo5SH0Cj3oo3Uj661UQkG2dH97vr0dBrV3izqfJf-BOf4bg=s192",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEidhQG32-yBtRcz70HGG7h9WjMa28hi-9sgxTGEYbbtt7Vjl1x0eR1MH0_5BjjbbosTG7VNboKHyOiKgoPCBPs50BjZ8ix7tI6MKxNu9xkcy7VsY7dlt7iqBWUXdV71x-PwwX-nRw1WNV-mo5SH0Cj3oo3Uj661UQkG2dH97vr0dBrV3izqfJf-BOf4bg=s512",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
