@@ -6,6 +6,7 @@
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#39b4ff",
+  "prefer_related_applications": false,
   "description": "Tempat berbagi informasi seputar teknologi, tips, trik, coding, tutorial, social media, berita dan info menarik lainnya",
   "icons": [{
     "src": "https://blogger.googleusercontent.com/img/a/AVvXsEidhQG32-yBtRcz70HGG7h9WjMa28hi-9sgxTGEYbbtt7Vjl1x0eR1MH0_5BjjbbosTG7VNboKHyOiKgoPCBPs50BjZ8ix7tI6MKxNu9xkcy7VsY7dlt7iqBWUXdV71x-PwwX-nRw1WNV-mo5SH0Cj3oo3Uj661UQkG2dH97vr0dBrV3izqfJf-BOf4bg=s48",
